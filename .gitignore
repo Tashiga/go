@@ -18,8 +18,5 @@
 *.out
 *.test
 
-# Rapports / fichiers temporaires
-report.json
-
 # Modules Go téléchargés
 go.sum
