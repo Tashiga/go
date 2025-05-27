@@ -1,0 +1,25 @@
+# Fichiers binaires compilés
+/bin/
+/pkg/
+/*.exe
+/*.exe~
+/*.dll
+/*.so
+/*.dylib
+
+# Éditeur / IDE
+*.swp
+*.swo
+*.tmp
+.idea/
+.vscode/
+
+# Fichiers de test
+*.out
+*.test
+
+# Rapports / fichiers temporaires
+report.json
+
+# Modules Go téléchargés
+go.sum
